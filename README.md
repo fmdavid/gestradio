@@ -6,7 +6,7 @@ Radio FM controlada por gestos con Arduino
 
 En el siguiente enlace puede ver un vídeo explicativo del proyecto:
 
-* [Vídeo](https://youtu.be/4cWeixp1Mwg)
+* [Vídeo](https://youtu.be/e5I59Dzwr8U)
 
 ## Contenido
 
